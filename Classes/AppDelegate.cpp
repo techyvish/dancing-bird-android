@@ -11,6 +11,7 @@
 #include "cocos2d.h"
 #include "SimpleAudioEngine.h"
 #include "HelloWorldScene.h"
+#include "SpineLayer.h"
 
 USING_NS_CC;
 using namespace CocosDenshion;
@@ -26,6 +27,7 @@ AppDelegate::~AppDelegate()
 
 bool AppDelegate::applicationDidFinishLaunching()
 {
+
     // initialize director
     CCDirector *pDirector = CCDirector::sharedDirector();
     pDirector->setOpenGLView(CCEGLView::sharedOpenGLView());
@@ -37,8 +39,11 @@ bool AppDelegate::applicationDidFinishLaunching()
     pDirector->setAnimationInterval(1.0 / 60);
 
     // create a scene. it's an autorelease object
-    CCScene *pScene = HelloWorld::scene();
+    // CCScene *pScene = HelloWorld::scene();
 
+    CCScene *pScene = SpineLayer::scene();
+    
+    //CCEGLView::sharedOpenGLView()->setDesignResolutionSize(1136, 640, kResolutionNoBorder);
     // run
     pDirector->runWithScene(pScene);
 
