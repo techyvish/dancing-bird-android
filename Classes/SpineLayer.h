@@ -12,19 +12,18 @@
 #include "cocos2d.h"
 #include "Box2D.h"
 #include <spine/spine-cocos2dx.h>
+#include "CCParallaxScrollNode.h"
 
 class SpineLayer : public cocos2d::CCLayer  {
     
 public:
 
-    
     ~SpineLayer();
     SpineLayer();
     
-    
     // returns a Scene that contains the HelloWorld as the only child
     static cocos2d::CCScene* scene();
-    
+
     void initPhysics();
     // adds a new sprite at a given coordinate
     void addNewSpriteAtPosition(cocos2d::CCPoint p);
@@ -39,13 +38,16 @@ public:
     
     void update(float dt);
     void creatOcean();
-    void creaetFog();
+    float randomValueBetween(float low, float high);
 
 private:
     
     b2World* world;
     cocos2d::CCTexture2D* m_pSpriteTexture; // weak ref
     cocos2d::CCArray *birdArray;
+    CCParallaxNode *parallex;
+    
+    CCParallaxScrollNode *parallexScroll;
     
 };
 

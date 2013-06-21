@@ -11,7 +11,7 @@
 #include "cocos2d.h"
 #include "SimpleAudioEngine.h"
 #include "HelloWorldScene.h"
-#include "SpineLayer.h"
+#include <SpineLayer.h>
 
 USING_NS_CC;
 using namespace CocosDenshion;

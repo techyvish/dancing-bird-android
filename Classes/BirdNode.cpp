@@ -21,7 +21,7 @@ void BirdNode::createNode(const char *skeletonDataFile, const char *atlasFile){
     skeletonNode =  CCSkeleton::createWithFile(skeletonDataFile, atlasFile);
     AnimationState_setAnimationByName(skeletonNode->state, "fly", true);
 	skeletonNode->timeScale = 1.0f;
-	skeletonNode->debugBones = true;
+	//skeletonNode->debugBones = true;
 	skeletonNode->runAction(CCRepeatForever::create(CCSequence::create(CCFadeOut::create(1),
                                                                        CCFadeIn::create(1),
                                                                        CCDelayTime::create(5),

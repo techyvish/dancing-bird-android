@@ -230,8 +230,6 @@ obj/local/armeabi/objs-debug/game_shared/__/__/Classes/HelloWorldScene.o: \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../cocos2dx/CCScheduler.h \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../cocos2dx/support/data_support/uthash.h \
- /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/SimpleAudioEngine.h \
- /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/Export.h \
  jni/../../../external/Box2d/Box2D.h \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Settings.h \
  /Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cassert \
@@ -274,7 +272,9 @@ obj/local/armeabi/objs-debug/game_shared/__/__/Classes/HelloWorldScene.o: \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2PulleyJoint.h \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2RevoluteJoint.h \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2RopeJoint.h \
- /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2WeldJoint.h
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2WeldJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/SimpleAudioEngine.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/Export.h
 
 jni/../../Classes/HelloWorldScene.h:
 
@@ -736,10 +736,6 @@ jni/../../Classes/HelloWorldScene.h:
 
 /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../cocos2dx/support/data_support/uthash.h:
 
-/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/SimpleAudioEngine.h:
-
-/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/Export.h:
-
 jni/../../../external/Box2d/Box2D.h:
 
 /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Settings.h:
@@ -825,3 +821,7 @@ jni/../../../external/Box2d/Box2D.h:
 /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2RopeJoint.h:
 
 /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2WeldJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/SimpleAudioEngine.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/Export.h:

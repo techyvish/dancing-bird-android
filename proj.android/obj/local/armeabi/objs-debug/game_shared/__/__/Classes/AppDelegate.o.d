@@ -230,7 +230,70 @@ obj/local/armeabi/objs-debug/game_shared/__/__/Classes/AppDelegate.o: \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../cocos2dx/CCScheduler.h \
  /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../cocos2dx/support/data_support/uthash.h \
- jni/../../Classes/HelloWorldScene.h
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/SimpleAudioEngine.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/Export.h \
+ jni/../../Classes/HelloWorldScene.h jni/../../../external/Box2d/Box2D.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Settings.h \
+ /Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cassert \
+ /Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Draw.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Math.h \
+ /Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cfloat \
+ /Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstddef \
+ /Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/limits \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Timer.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2CircleShape.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2Shape.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2BlockAllocator.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2Collision.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2EdgeShape.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2ChainShape.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2PolygonShape.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2BroadPhase.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2DynamicTree.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2GrowableStack.h \
+ /Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2Distance.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2TimeOfImpact.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2Body.h \
+ /Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/memory \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2Fixture.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2WorldCallbacks.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2TimeStep.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2World.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2StackAllocator.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2ContactManager.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Contacts/b2Contact.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2DistanceJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2Joint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2FrictionJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2GearJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2WheelJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2MouseJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2PrismaticJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2PulleyJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2RevoluteJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2RopeJoint.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2WeldJoint.h \
+ jni/../../Classes/SpineLayer.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/spine-cocos2dx.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/spine.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Animation.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/AnimationState.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/AnimationStateData.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/SkeletonData.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/BoneData.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/SlotData.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Skin.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Attachment.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Atlas.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/AtlasAttachmentLoader.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/AttachmentLoader.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Bone.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/RegionAttachment.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Slot.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Skeleton.h \
+ /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/SkeletonJson.h
 
 jni/../../Classes/AppDelegate.h:
 
@@ -694,4 +757,132 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../cocos2dx/support/data_support/uthash.h:
 
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/SimpleAudioEngine.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../CocosDenshion/android/../include/Export.h:
+
 jni/../../Classes/HelloWorldScene.h:
+
+jni/../../../external/Box2d/Box2D.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Settings.h:
+
+/Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cassert:
+
+/Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Draw.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Math.h:
+
+/Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cfloat:
+
+/Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstddef:
+
+/Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/limits:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2Timer.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2CircleShape.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2Shape.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2BlockAllocator.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2Collision.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2EdgeShape.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2ChainShape.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/Shapes/b2PolygonShape.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2BroadPhase.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2DynamicTree.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2GrowableStack.h:
+
+/Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2Distance.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Collision/b2TimeOfImpact.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2Body.h:
+
+/Users/Vishal/Documents/Dev/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/memory:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2Fixture.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2WorldCallbacks.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2TimeStep.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2World.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Common/b2StackAllocator.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/b2ContactManager.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Contacts/b2Contact.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2DistanceJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2Joint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2FrictionJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2GearJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2WheelJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2MouseJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2PrismaticJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2PulleyJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2RevoluteJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2RopeJoint.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../external/Box2D/../Box2D/Dynamics/Joints/b2WeldJoint.h:
+
+jni/../../Classes/SpineLayer.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/spine-cocos2dx.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/spine.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Animation.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/AnimationState.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/AnimationStateData.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/SkeletonData.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/BoneData.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/SlotData.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Skin.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Attachment.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Atlas.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/AtlasAttachmentLoader.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/AttachmentLoader.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Bone.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/RegionAttachment.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Slot.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/Skeleton.h:
+
+/Users/Vishal/Documents/Dev/cocos2d-x/creativegame/proj.android/../../extensions/spine/SkeletonJson.h:
